@@ -10,7 +10,6 @@ public class conditionals {
 				System.out.println("Sayı 20'ye eşittir.");
 		}else {
 				System.out.println("Sayı 20'den büyüktür.");
-			
 		}
 	}
 

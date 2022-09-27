@@ -9,7 +9,6 @@ public class variables {
 		System.out.println(mesaj + ogrenciSayisi);
 		System.out.println("Öğrenci sayım :" + ogrenciSayisi);
 		System.out.println("Öğrenci sayım :" + ogrenciSayisi);
-
 	}
 
 }
