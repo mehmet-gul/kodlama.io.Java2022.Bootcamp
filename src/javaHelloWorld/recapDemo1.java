@@ -1,6 +1,6 @@
 package javaHelloWorld;
 
-public class recapdDemo1 {
+public class recapDemo1 {
 
 	public static void main(String[] args) {
 		int sayi1 = 26;
@@ -16,6 +16,7 @@ public class recapdDemo1 {
 		}
 		
 		System.out.println("En Büyük Sayı: "+ enBuyuk);
+
 	}
 
 }
